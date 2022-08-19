@@ -1,0 +1,6 @@
+C:\Users\andca\source\repos\Practico1\Shared\bin\Debug\Shared.dll
+C:\Users\andca\source\repos\Practico1\Shared\bin\Debug\Shared.pdb
+C:\Users\andca\source\repos\Practico1\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\andca\source\repos\Practico1\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\andca\source\repos\Practico1\Shared\obj\Debug\Shared.dll
+C:\Users\andca\source\repos\Practico1\Shared\obj\Debug\Shared.pdb

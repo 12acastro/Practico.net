@@ -1,0 +1,11 @@
+C:\Users\andca\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe.config
+C:\Users\andca\source\repos\Practico1\Practico1\bin\Debug\Practico1.exe
+C:\Users\andca\source\repos\Practico1\Practico1\bin\Debug\Practico1.pdb
+C:\Users\andca\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.AssemblyReference.cache
+C:\Users\andca\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\andca\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CoreCompileInputs.cache
+C:\Users\andca\source\repos\Practico1\Practico1\obj\Debug\Practico1.exe
+C:\Users\andca\source\repos\Practico1\Practico1\obj\Debug\Practico1.pdb
+C:\Users\andca\source\repos\Practico1\Practico1\bin\Debug\Shared.dll
+C:\Users\andca\source\repos\Practico1\Practico1\bin\Debug\Shared.pdb
+C:\Users\andca\source\repos\Practico1\Practico1\obj\Debug\Practico1.csproj.CopyComplete
